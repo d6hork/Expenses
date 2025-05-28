@@ -6,9 +6,9 @@
 
 - Přidávání nových výdajů (částka, kategorie, popis, datum)
 - Zobrazení seznamu všech výdajů
-- Filtrování nebo řazení výdajů podle data nebo částky *(pokud je implementováno)*
+- Filtrování nebo řazení výdajů podle data nebo částky
 - Možnost mazání výdajů
-- Základní přehled/statistika celkových výdajů *(pokud je implementováno)*
+- Základní přehled/statistika celkových výdajů
 
  Použité technologie
 
